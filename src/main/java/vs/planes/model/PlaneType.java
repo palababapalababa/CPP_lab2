@@ -1,0 +1,15 @@
+package vs.planes.model;
+
+public enum PlaneType {
+    BOEING_737,
+    AIRBUS_A320,
+    BOEING_747,
+    AIRBUS_A380,
+    CESSNA_172,
+    PIPER_CHEROKEE,
+    BEECHCRAFT_BONANZA,
+    CIRRUS_SR22,
+    EMBRAER_PHENOM_100,
+    BOMBARDIER_GLOBAL_6000,
+    ANTONOV_AN_225_MRIYA
+}
